@@ -3,4 +3,4 @@ Le réseau social chrétien de groupes d'animations de paroisses, d'Églises aut
 
 # Evolution du code depuis le wwek-end HackMyBible
 
-Projet minimal / POC développé avce Ruby on Rails 5.2.0.
+Projet déplacé sur le repertoire [HackmyBibla](https://github.com/HackMyChurch/HackmyBiblia)
